@@ -9,6 +9,7 @@
     "docs",
     "ios",
     "src",
+    "app.plugin.js",
     "index.ts",
     "index.d.ts",
     "react-native-star-io10.podspec",
